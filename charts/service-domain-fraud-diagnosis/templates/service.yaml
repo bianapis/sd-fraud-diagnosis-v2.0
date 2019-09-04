@@ -1,0 +1,19 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: {{ template "service-domain-fraud-diagnosis.fullname" . }}
+  labels:
+    app: {{ template "service-domain-fraud-diagnosis.name" . }}
+    chart: {{ template "service-domain-fraud-diagnosis.chart" . }}
+    release: {{ .Release.Name }}
+    heritage: {{ .Release.Service }}
+spec:
+  type: {{ .Values.service.type }}
+  ports:
+    - port: {{ .Values.service.port }}
+      targetPort: http
+      protocol: TCP
+      name: http
+  selector:
+    app: {{ template "service-domain-fraud-diagnosis.name" . }}
+    release: {{ .Release.Name }}

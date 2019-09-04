@@ -1,0 +1,41 @@
+{
+  "economicModelInstanceRecord" : {
+    "economicModelAnalysisResult" : "economicModelAnalysisResult",
+    "economicModelWorkProduct" : "economicModelWorkProduct"
+  },
+  "analystReviewInstanceRecord" : {
+    "analystReviewWorkProduct" : "analystReviewWorkProduct",
+    "customerReference" : "716039",
+    "analystReviewRecommendedAction" : "analystReviewRecommendedAction",
+    "analystReviewAnalysisResult" : "analystReviewAnalysisResult",
+    "outboundContactReference" : "724348"
+  },
+  "outOfPatternInstanceRecord" : {
+    "customerBehaviorAnalysisWorkProduct" : "customerBehaviorAnalysisWorkProduct",
+    "customerBehaviorAnalysisResult" : "customerBehaviorAnalysisResult"
+  },
+  "analystReviewInstanceReport" : {
+    "analystReviewInstanceReportRecord" : {},
+    "analystReviewInstanceReport" : {},
+    "analystReviewInstanceReportType" : "analystReviewInstanceReportType",
+    "analystReviewInstanceReportParameters" : "analystReviewInstanceReportParameters"
+  },
+  "fraudDiagnosisAnalysisInstanceRecord" : {
+    "fraudDiagnosisTransactionConsolidationRecord" : {},
+    "fraudDiagnosisRecommendation" : "fraudDiagnosisRecommendation",
+    "productProductionSessionReference" : "740849",
+    "fraudDiagnosisEvaluationProfile" : "fraudDiagnosisEvaluationProfile",
+    "fraudDiagnosisDetermination" : "fraudDiagnosisDetermination",
+    "fraudEvaluationProductionAnomalyProductionTransactionReference" : "781084",
+    "fraudEvaluationProductionAnomalyRecord" : {}
+  },
+  "analystReviewRetrieveActionTaskRecord" : {},
+  "analystReviewInstanceAnalysis" : {
+    "analystReviewInstanceAnalysisReportType" : "analystReviewInstanceAnalysisReportType",
+    "analystReviewInstanceAnalysisParameters" : "analystReviewInstanceAnalysisParameters",
+    "analystReviewInstanceAnalysisReport" : {},
+    "analystReviewInstanceAnalysisRecord" : {}
+  },
+  "analystReviewRetrieveActionResponse" : "analystReviewRetrieveActionResponse",
+  "analystReviewRetrieveActionTaskReference" : "ARRATR716636"
+}

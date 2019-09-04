@@ -1,0 +1,30 @@
+{
+  "customerBehaviorInstanceReport" : {
+    "customerBehaviorInstanceReportRecord" : {},
+    "customerBehaviorInstanceReport" : {},
+    "customerBehaviorInstanceReportParameters" : "customerBehaviorInstanceReportParameters",
+    "customerBehaviorInstanceReportType" : "customerBehaviorInstanceReportType"
+  },
+  "outOfPatternInstanceRecord" : {
+    "customerBehaviorAnalysisWorkProduct" : "customerBehaviorAnalysisWorkProduct",
+    "customerBehaviorAnalysisResult" : "customerBehaviorAnalysisResult"
+  },
+  "fraudDiagnosisAnalysisInstanceRecord" : {
+    "fraudDiagnosisTransactionConsolidationRecord" : {},
+    "fraudDiagnosisRecommendation" : "fraudDiagnosisRecommendation",
+    "productProductionSessionReference" : "771966",
+    "fraudDiagnosisEvaluationProfile" : "fraudDiagnosisEvaluationProfile",
+    "fraudDiagnosisDetermination" : "fraudDiagnosisDetermination",
+    "fraudEvaluationProductionAnomalyProductionTransactionReference" : "782511",
+    "fraudEvaluationProductionAnomalyRecord" : {}
+  },
+  "customerBehaviorRetrieveActionResponse" : "customerBehaviorRetrieveActionResponse",
+  "customerBehaviorRetrieveActionTaskReference" : "CBRATR718746",
+  "customerBehaviorInstanceAnalysis" : {
+    "customerBehaviorInstanceAnalysisRecord" : {},
+    "customerBehaviorInstanceAnalysisReportType" : "customerBehaviorInstanceAnalysisReportType",
+    "customerBehaviorInstanceAnalysisReport" : {},
+    "customerBehaviorInstanceAnalysisParameters" : "customerBehaviorInstanceAnalysisParameters"
+  },
+  "customerBehaviorRetrieveActionTaskRecord" : {}
+}

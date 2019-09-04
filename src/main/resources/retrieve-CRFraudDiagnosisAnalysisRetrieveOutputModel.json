@@ -1,0 +1,24 @@
+{
+  "fraudDiagnosisAnalysisInstanceAnalysis" : {
+    "fraudDiagnosisAnalysisInstanceAnalysisReport" : {},
+    "fraudDiagnosisAnalysisInstanceAnalysisReportType" : "fraudDiagnosisAnalysisInstanceAnalysisReportType",
+    "fraudDiagnosisAnalysisInstanceAnalysisData" : "fraudDiagnosisAnalysisInstanceAnalysisData"
+  },
+  "fraudDiagnosisAnalysisRetrieveActionResponse" : "fraudDiagnosisAnalysisRetrieveActionResponse",
+  "fraudDiagnosisAnalysisInstanceRecord" : {
+    "fraudDiagnosisTransactionConsolidationRecord" : {},
+    "fraudDiagnosisRecommendation" : "fraudDiagnosisRecommendation",
+    "productProductionSessionReference" : "719559",
+    "fraudDiagnosisEvaluationProfile" : "fraudDiagnosisEvaluationProfile",
+    "fraudDiagnosisDetermination" : "fraudDiagnosisDetermination",
+    "fraudEvaluationProductionAnomalyProductionTransactionReference" : "732782",
+    "fraudEvaluationProductionAnomalyRecord" : {}
+  },
+  "fraudDiagnosisAnalysisRetrieveActionTaskReference" : "FDARATR719426",
+  "fraudDiagnosisAnalysisRetrieveActionTaskRecord" : {},
+  "fraudDiagnosisAnalysisInstanceReportRecord" : {
+    "fraudDiagnosisAnalysisInstanceReportData" : "fraudDiagnosisAnalysisInstanceReportData",
+    "fraudDiagnosisAnalysisInstanceReportType" : "fraudDiagnosisAnalysisInstanceReportType",
+    "fraudDiagnosisAnalysisInstanceReport" : {}
+  }
+}

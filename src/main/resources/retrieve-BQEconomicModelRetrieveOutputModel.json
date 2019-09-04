@@ -1,0 +1,30 @@
+{
+  "economicModelInstanceRecord" : {
+    "economicModelAnalysisResult" : "economicModelAnalysisResult",
+    "economicModelWorkProduct" : "economicModelWorkProduct"
+  },
+  "economicModelRetrieveActionTaskReference" : "EMRATR722331",
+  "economicModelInstanceAnalysis" : {
+    "economicModelInstanceAnalysisRecord" : {},
+    "economicModelInstanceAnalysisReport" : {},
+    "economicModelInstanceAnalysisParameters" : "economicModelInstanceAnalysisParameters",
+    "economicModelInstanceAnalysisReportType" : "economicModelInstanceAnalysisReportType"
+  },
+  "fraudDiagnosisAnalysisInstanceRecord" : {
+    "fraudDiagnosisTransactionConsolidationRecord" : {},
+    "fraudDiagnosisRecommendation" : "fraudDiagnosisRecommendation",
+    "productProductionSessionReference" : "710508",
+    "fraudDiagnosisEvaluationProfile" : "fraudDiagnosisEvaluationProfile",
+    "fraudDiagnosisDetermination" : "fraudDiagnosisDetermination",
+    "fraudEvaluationProductionAnomalyProductionTransactionReference" : "709989",
+    "fraudEvaluationProductionAnomalyRecord" : {}
+  },
+  "economicModelRetrieveActionTaskRecord" : {},
+  "economicModelRetrieveActionResponse" : "economicModelRetrieveActionResponse",
+  "economicModelInstanceReport" : {
+    "economicModelInstanceReportParameters" : "economicModelInstanceReportParameters",
+    "economicModelInstanceReportRecord" : {},
+    "economicModelInstanceReportType" : "economicModelInstanceReportType",
+    "economicModelInstanceReport" : {}
+  }
+}

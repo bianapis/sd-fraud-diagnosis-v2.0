@@ -1,0 +1,11 @@
+{
+  "executeRecordReference" : "ERR748072",
+  "executeResponseRecord" : {},
+  "fraudDiagnosisAnalysisInstanceRecord" : {
+    "fraudDiagnosisRecommendation" : "fraudDiagnosisRecommendation",
+    "fraudDiagnosisEvaluationProfile" : "fraudDiagnosisEvaluationProfile",
+    "fraudDiagnosisDetermination" : "fraudDiagnosisDetermination"
+  },
+  "fraudDiagnosisAnalysisExecuteActionTaskReference" : "FDAEATR763668",
+  "fraudDiagnosisAnalysisExecuteActionTaskRecord" : {}
+}

@@ -1,0 +1,11 @@
+{
+  "fraudDiagnosisAnalysisRequestActionTaskRecord" : {},
+  "requestRecordReference" : "RRR710474",
+  "fraudDiagnosisAnalysisInstanceRecord" : {
+    "fraudDiagnosisRecommendation" : "fraudDiagnosisRecommendation",
+    "fraudDiagnosisEvaluationProfile" : "fraudDiagnosisEvaluationProfile",
+    "fraudDiagnosisDetermination" : "fraudDiagnosisDetermination"
+  },
+  "fraudDiagnosisAnalysisRequestActionTaskReference" : "FDARATR728286",
+  "requestResponseRecord" : {}
+}

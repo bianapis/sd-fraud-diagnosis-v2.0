@@ -1,0 +1,1 @@
+# Fraud Diagnosis Service Domain v2.0

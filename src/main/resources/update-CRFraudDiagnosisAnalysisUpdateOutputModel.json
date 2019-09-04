@@ -1,0 +1,12 @@
+{
+  "fraudDiagnosisAnalysisUpdateActionTaskRecord" : {},
+  "fraudDiagnosisAnalysisUpdateActionTaskReference" : "FDAUATR704221",
+  "fraudDiagnosisAnalysisInstanceRecord" : {
+    "fraudDiagnosisTransactionConsolidationRecord" : {},
+    "productProductionSessionReference" : "755772",
+    "fraudDiagnosisEvaluationProfile" : "fraudDiagnosisEvaluationProfile",
+    "fraudEvaluationProductionAnomalyProductionTransactionReference" : "731314",
+    "fraudEvaluationProductionAnomalyRecord" : {}
+  },
+  "updateResponseRecord" : {}
+}

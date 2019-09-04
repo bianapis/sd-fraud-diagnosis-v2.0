@@ -1,0 +1,11 @@
+{
+  "fraudDiagnosisAnalysisInstanceStatus" : "fraudDiagnosisAnalysisInstanceStatus",
+  "fraudDiagnosisAnalysisInstanceReference" : "FDAIR765133",
+  "fraudDiagnosisAnalysisInstanceRecord" : {
+    "fraudDiagnosisRecommendation" : "fraudDiagnosisRecommendation",
+    "fraudDiagnosisEvaluationProfile" : "fraudDiagnosisEvaluationProfile",
+    "fraudDiagnosisDetermination" : "fraudDiagnosisDetermination"
+  },
+  "fraudDiagnosisAnalysisEvaluateActionReference" : "FDAEAR763878",
+  "fraudDiagnosisAnalysisEvaluateActionRecord" : {}
+}

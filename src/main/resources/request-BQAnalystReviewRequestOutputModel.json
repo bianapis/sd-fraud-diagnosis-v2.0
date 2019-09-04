@@ -1,0 +1,22 @@
+{
+  "analystReviewInstanceRecord" : {
+    "analystReviewWorkProduct" : "analystReviewWorkProduct",
+    "customerReference" : "759456",
+    "analystReviewRecommendedAction" : "analystReviewRecommendedAction",
+    "analystReviewAnalysisResult" : "analystReviewAnalysisResult",
+    "outboundContactReference" : "792597"
+  },
+  "analystReviewRequestRecordReference" : "ARRRR703578",
+  "analystReviewRequestActionTaskReference" : "ARRATR758798",
+  "analystReviewRequestActionTaskRecord" : {},
+  "fraudDiagnosisAnalysisInstanceRecord" : {
+    "fraudDiagnosisTransactionConsolidationRecord" : {},
+    "fraudDiagnosisRecommendation" : "fraudDiagnosisRecommendation",
+    "productProductionSessionReference" : "711585",
+    "fraudDiagnosisEvaluationProfile" : "fraudDiagnosisEvaluationProfile",
+    "fraudDiagnosisDetermination" : "fraudDiagnosisDetermination",
+    "fraudEvaluationProductionAnomalyProductionTransactionReference" : "745519",
+    "fraudEvaluationProductionAnomalyRecord" : {}
+  },
+  "requestResponseRecord" : {}
+}
